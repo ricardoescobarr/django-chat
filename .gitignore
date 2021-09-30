@@ -1,0 +1,14 @@
+.idea/
+.idea/*
+*.pyc
+db.sqlite3
+log/
+__pycache__/*
+entorno/*
+static/media/*
+media/*
+.vscode/*
+chat/.env
+apps/chat/migrations/__pycache__/*
+apps/chat/migrations/*.py
+!apps/chat/migrations/__init__.py
